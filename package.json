@@ -1,0 +1,18 @@
+{
+  "name": "html-css-javascript",
+  "version": "1.0.0",
+  "description": "HTML, CSS, JavaScript Assignments",
+  "scripts": {
+    "dev-server": "browser-sync start --server --directory --files '**/*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/MREstepa/html-css-javascript.git"
+  },
+  "author": "MREstepa",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/MREstepa/html-css-javascript#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12"
+  }
+}
