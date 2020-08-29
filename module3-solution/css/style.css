@@ -22,7 +22,7 @@ header {
 }
 .card {
   padding: 15px;
-  margin: 15px;
+  margin: 15px 7px 15px 7px;
   background-color: #cfcfcf;
 }
 .card > h5 {  /* dish title */
