@@ -1,5 +1,5 @@
 # HTML, CSS, and Javascript for Web Developers
-This repository is for the [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) module assignment answers.
+This repository is for my [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) module assignment answers.
 
 
 ## Module Assignments Solution Links
@@ -22,7 +22,7 @@ This repository is for the [HTML, CSS, and Javascript for Web Developers](https:
     npm run dev-server
     ```
 
-4. Search for localhost:30001 in your browser `localhost:3000`
+4. Search for localhost:3000 in your browser `localhost:3000`
 
 
 ### Built With
@@ -32,6 +32,7 @@ This repository is for the [HTML, CSS, and Javascript for Web Developers](https:
 * [Bootstrap](https://getbootstrap.com)
 
 
-## Contact
+## Meta
 MREstepa - [Bitbucket](https://bitbucket.orh/MREstepa)
+
 Repository Link: [Bitbucket](bitbucket.org/MREstepa/html-css-javascript/src)
