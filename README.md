@@ -1,25 +1,37 @@
-# Welcome!
-This repository is for the HTML, CSS, and Javascript for Web Developers module assignment answers.
+# HTML, CSS, and Javascript for Web Developers
+This repository is for the [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) module assignment answers.
 
-### Module Assignments Solution Links
+
+## Module Assignments Solution Links
 - [Module 2 Solution](https://htmlpreview.github.io/?https://bitbucket.org/MREstepa/html-css-javascript/raw/6914c0d7cb7174901f26b28fe01c7003134f43ae/module2-solution/index.html)
 - [Module 3 Solution](http://htmlpreview.github.io/?https://bitbucket.org/MREstepa/html-css-javascript/raw/2174515e284bd457327d9ce7a45fdb657bcfffc8/module3-solution/index.html)
 - [Module 4 Solution](http://htmlpreview.github.io/?https://bitbucket.org/MREstepa/html-css-javascript/raw/8f17fa8004ee825ef5c7eb06e5a4cbf4412180ff/module4-solution/index.html)
 
-### Run browser-sync
-To run browser sync in dev-server:
 
-```
-npm run dev-server
-```
+## Usage
+1. Clone repository
+2. Install package dependecies
 
-### Html Preview
-To preview raw html files
+    ```
+    npm install
+    ```
 
-```
-htmlpreview.github.io/?
-```
+3. Run browser-sync
 
-[Code Repository](bitbucket.org/MREstepa)
+    ```
+    npm run dev-server
+    ```
 
-[MREstepa](bitbucket.org/MREstepa/html-css-javascript/src)
+4. Search for localhost:30001 in your browser `localhost:3000`
+
+
+### Built With
+* HTML
+* CSS
+* [JavaScript](https://www.javascript.com)
+* [Bootstrap](https://getbootstrap.com)
+
+
+## Contact
+MREstepa - [Bitbucket](https://bitbucket.orh/MREstepa)
+Repository Link: [Bitbucket](bitbucket.org/MREstepa/html-css-javascript/src)
