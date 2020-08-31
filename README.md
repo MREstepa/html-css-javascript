@@ -8,6 +8,8 @@ $ npm run dev-server
 
 [Module 3 Solution](http://htmlpreview.github.io/?https://bitbucket.org/MREstepa/html-css-javascript/raw/2174515e284bd457327d9ce7a45fdb657bcfffc8/module3-solution/index.html)
 
+[Module 4 Solution](http://htmlpreview.github.io/?https://bitbucket.org/MREstepa/html-css-javascript/raw/8f17fa8004ee825ef5c7eb06e5a4cbf4412180ff/module4-solution/index.html)
+
 Send Assignment Answers:
 
 ```
