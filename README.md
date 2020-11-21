@@ -30,9 +30,3 @@ This repository is for my [HTML, CSS, and Javascript for Web Developers](https:/
 * CSS
 * [JavaScript](https://www.javascript.com)
 * [Bootstrap](https://getbootstrap.com)
-
-
-## Meta
-MREstepa - [Bitbucket](https://bitbucket.orh/MREstepa)
-
-Repository Link: [Bitbucket](bitbucket.org/MREstepa/html-css-javascript/src)
